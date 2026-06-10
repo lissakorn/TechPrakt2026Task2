@@ -1,18 +1,18 @@
 
 body {
     font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    background-color: #f8fafc;
+    background-color: #f1f5f9;
     color: #333;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #0f172a;
+    background-color: #f1f5f9;
     color: #ffffff;
     text-align: center;
     padding: 40px 20px;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
 }
 
     header h1 {
@@ -43,7 +43,7 @@ header {
     background-color: #ffffff;
     border-radius: 12px;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-    padding: 24px;
+    padding: 25px;
     margin: 0;
     width: 100%;
     max-width: 450px;
